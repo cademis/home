@@ -1,0 +1,52 @@
+/* Make all the html work with pico css classless*/
+
+.container {
+    overflow: hidden;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+li {
+    list-style: none;
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 10px;
+}
+
+img {
+    width: 100px;
+}
+
+.grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.container-2 {
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    width: 100px;
+    text-align: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
