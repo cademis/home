@@ -1,5 +1,3 @@
 # home
 
-## Instructions
-
-https://www.theodinproject.com/lessons/foundations-landing-page
+Visit the site live at https://cademis.github.io/home/
